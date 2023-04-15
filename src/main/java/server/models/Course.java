@@ -14,6 +14,7 @@ public class Course implements Serializable {
         this.session = session;
     }
 
+
     public String getName() {
         return name;
     }

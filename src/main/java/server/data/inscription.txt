@@ -1,1 +1,12 @@
-Automne	IFT2255	12345678	Michalis	Famelis	mfamelis@iro.umontreal.ca
+
+Hiver	IFT2125	12345678	m	m	m.m@umontreal.ca
+Hiver	IFT1025	12345678	l	l	l.l@umontreal.ca
+Ete	IFT2256	12345678	d	d	d.d@umontreal.ca
+Ete	IFT2256	12345678	p	p	p.p@umontreal.ca
+Ete	IFT2256	12345678	t	t	t.t@umontreal.ca
+Ete	IFT2256	12345678	o	o	o.o@umontreal.ca
+Automne	IFT1015	12345678	r	r	r.r@umontreal.ca
+Ete	IFT2256	12345678	t	t	t.t@umontreal.ca
+Ete	IFT2256	12345678	d	d	d.d@umontreal.ca
+Ete	IFT2256	12345678	soundous	w	soundous.w@umontreal.ca
+Ete	IFT2256	12345678	i	i	i.i@umontreal.ca
